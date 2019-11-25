@@ -1,0 +1,23 @@
+{
+  "name": "moon-cli",
+  "version": "0.0.1-alpha.1",
+  "description": "Command line interface for rapid moon development",
+  "bin": {
+    "moon": "bin/moon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vue-cli.git",
+    "directory": "packages/@vue/cli"
+  },
+  "keywords": [
+    "moon",
+    "cli"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
